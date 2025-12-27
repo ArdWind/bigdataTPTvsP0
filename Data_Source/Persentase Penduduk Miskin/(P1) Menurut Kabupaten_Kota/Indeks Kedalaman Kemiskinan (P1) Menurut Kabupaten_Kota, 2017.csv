@@ -1,0 +1,555 @@
+﻿Nama Wilayah,
+,Indeks Kedalaman Kemiskinan (P1) Menurut Kabupaten/Kota
+,2017
+ACEH,2.98
+Simeulue,2.78
+Aceh Singkil,5.94
+Aceh Selatan,2.44
+Aceh Tenggara,1.8
+Aceh Timur,2.85
+Aceh Tengah,3.54
+Aceh Barat,4.74
+Aceh Besar,3.42
+Pidie,4.18
+Bireuen,2.99
+Aceh Utara,3.22
+Aceh Barat Daya,2.88
+Gayo Lues,4.66
+Aceh Tamiang,2.26
+Nagan Raya,2.53
+Aceh Jaya,2.29
+Bener Meriah,3.68
+Pidie Jaya,3.26
+Kota Banda Aceh,1.54
+Kota Sabang,2.99
+Kota Langsa,1.67
+Kota Lhokseumawe,1.68
+Kota Subulussalam,3.2
+SUMATERA UTARA,1.71
+Nias,2.05
+Mandailing Natal,1.86
+Tapanuli Selatan,1.41
+Tapanuli Tengah,2.12
+Tapanuli Utara,1.83
+Toba Samosir,1.82
+Labuhan Batu,1.11
+Asahan,2.04
+Simalungun,1.63
+Dairi,1.03
+Karo,1.87
+Deli Serdang,0.47
+Langkat,1.67
+Nias Selatan,2.94
+Humbang Hasundutan,1.16
+Pakpak Bharat,1.18
+Samosir,2.44
+Serdang Bedagai,1.32
+Batu Bara,1.46
+Padang Lawas Utara,1.54
+Padang Lawas,1.17
+Labuhan Batu Selatan,1.79
+Labuhan Batu Utara,1.43
+Nias Utara,5.3
+Nias Barat,4.68
+Kota Sibolga,2.12
+Kota Tanjung Balai,1.98
+Kota Pematang Siantar,1.3
+Kota Tebing Tinggi,2.32
+Kota Medan,1.56
+Kota Binjai,1.11
+Kota Padangsidimpuan,1.39
+Kota Gunungsitoli,3.82
+SUMATERA BARAT,1
+Kepulauan Mentawai,2.58
+Pesisir Selatan,1.07
+Solok,1.11
+Sijunjung,1.12
+Tanah Datar,0.55
+Padang Pariaman,1.13
+Agam,0.96
+Lima Puluh Kota,1.09
+Pasaman,0.8
+Solok Selatan,0.89
+Dharmasraya,0.66
+Pasaman Barat,1.17
+Kota Padang,0.54
+Kota Solok,0.62
+Kota Sawah Lunto,0.29
+Kota Padang Panjang,0.94
+Kota Bukittinggi,0.57
+Kota Payakumbuh,0.75
+Kota Pariaman,0.59
+RIAU,1.32
+Kuantan Singingi,1.47
+Indragiri Hulu,1.14
+Indragiri Hilir,1.17
+Pelalawan,1.52
+Siak,0.88
+Kampar,1.01
+Rokan Hulu,1.74
+Bengkalis,0.95
+Rokan Hilir,1.39
+Kepulauan Meranti,6.51
+Kota Pekanbaru,0.61
+Kota Dumai,0.84
+JAMBI,1.28
+Kerinci,1.56
+Merangin,1.69
+Sarolangun,2.2
+Batang Hari,1.86
+Muaro Jambi,0.45
+Tanjung Jabung Timur,2.98
+Tanjung Jabung Barat,2.35
+Tebo,0.87
+Bungo,1.19
+Kota Jambi,1.13
+Kota Sungai Penuh,0.23
+SUMATERA SELATAN,2.24
+Ogan Komering Ulu,2.47
+Ogan Komering Ilir,2.95
+Muara Enim,2.13
+Lahat,2.45
+Musi Rawas,2.52
+Musi Banyuasin,1.79
+Banyu Asin,1.85
+Ogan Komering Ulu Selatan,1.65
+Ogan Komering Ulu Timur,1.9
+Ogan Ilir,1.9
+Empat Lawang,1.4
+Penukal Abab Lematang Ilir,2.19
+Musi Rawas Utara,3.28
+Kota Palembang,1.76
+Kota Prabumulih,1.29
+Kota Pagar Alam,1.09
+Kota Lubuklinggau,2.14
+BENGKULU,2.85
+Bengkulu Selatan,3.32
+Rejang Lebong,2.9
+Bengkulu Utara,1.97
+Kaur,4.12
+Seluma,3.98
+Mukomuko,1.99
+Lebong,1.46
+Kepahiang,1.89
+Bengkulu Tengah,1.42
+Kota Bengkulu,4.69
+LAMPUNG,2.16
+Lampung Barat,2.15
+Tanggamus,1.81
+Lampung Selatan,2.36
+Lampung Timur,2.96
+Lampung Tengah,1.99
+Lampung Utara,4.19
+Way Kanan,2.05
+Tulangbawang,1.53
+Pesawaran,3.31
+Pringsewu,1.71
+Mesuji,1.13
+Tulang Bawang Barat,1.08
+Pesisir Barat,2.08
+Kota Bandar Lampung,1.48
+Kota Metro,1.92
+KEP. BANGKA BELITUNG,0.49
+Bangka,0.42
+Belitung,1.14
+Bangka Barat,0.16
+Bangka Tengah,0.57
+Bangka Selatan,0.19
+Belitung Timur,0.79
+Kota Pangkal Pinang,0.57
+KEPULAUAN RIAU,0.97
+Karimun,0.86
+Bintan,0.87
+Natuna,0.43
+Lingga,1.58
+Kepulauan Anambas,1.22
+Kota Batam,0.79
+Kota Tanjung Pinang,1.76
+DKI JAKARTA,0.49
+Kepulauan Seribu,2.09
+Kota Jakarta Selatan,0.38
+Kota Jakarta Timur,0.46
+Kota Jakarta Pusat,0.33
+Kota Jakarta Barat,0.4
+Kota Jakarta Utara,0.83
+JAWA BARAT,1.45
+Bogor,1.35
+Sukabumi,1
+Cianjur,1.5
+Bandung,1.12
+Garut,1.72
+Tasikmalaya,1.36
+Ciamis,1.22
+Kuningan,2
+Cirebon,2.13
+Majalengka,1.93
+Sumedang,1.97
+Indramayu,2.34
+Subang,2.2
+Purwakarta,1.05
+Karawang,1.54
+Bekasi,0.81
+Bandung Barat,2.32
+Pangandaran,1.48
+Kota Bogor,0.99
+Kota Sukabumi,1.75
+Kota Bandung,0.68
+Kota Cirebon,1.56
+Kota Bekasi,0.82
+Kota Depok,0.25
+Kota Cimahi,1.1
+Kota Tasikmalaya,2.01
+Kota Banjar,0.54
+JAWA TENGAH,2.21
+Cilacap,1.98
+Banyumas,3.19
+Purbalingga,2.79
+Banjarnegara,3.25
+Kebumen,3.62
+Purworejo,2.25
+Wonosobo,3.85
+Magelang,1.67
+Boyolali,1.96
+Klaten,2.46
+Sukoharjo,0.93
+Wonogiri,1.8
+Karanganyar,1.85
+Sragen,1.93
+Grobogan,2.03
+Blora,1.53
+Rembang,3.24
+Pati,1.44
+Kudus,1
+Jepara,0.98
+Demak,2.2
+Semarang,1.1
+Temanggung,1.81
+Kendal,1.69
+Batang,1.51
+Pekalongan,1.73
+Pemalang,3.52
+Tegal,1.27
+Brebes,3.06
+Kota Magelang,1.3
+Kota Surakarta,1.87
+Kota Salatiga,0.85
+Kota Semarang,0.54
+Kota Pekalongan,0.92
+Kota Tegal,1.42
+D I YOGYAKARTA,2.19
+Kulon Progo,2.79
+Bantul,2.21
+Gunung Kidul,3.36
+Sleman,1.23
+Kota Yogyakarta,1.58
+JAWA TIMUR,1.87
+Pacitan,2.14
+Ponorogo,1.41
+Trenggalek,1.71
+Tulungagung,0.82
+Blitar,1.16
+Kediri,1.75
+Malang,1.83
+Lumajang,1.6
+Jember,1.33
+Banyuwangi,1.15
+Bondowoso,2.11
+Situbondo,1.77
+Probolinggo,3.34
+Pasuruan,1.67
+Sidoarjo,1.05
+Mojokerto,1.7
+Jombang,1.63
+Nganjuk,1.73
+Madiun,2.65
+Magetan,1.53
+Ngawi,1.98
+Bojonegoro,2.31
+Tuban,3.29
+Lamongan,2.53
+Gresik,2.51
+Bangkalan,3.49
+Sampang,3.32
+Pamekasan,1.66
+Sumenep,1.78
+Kota Kediri,0.99
+Kota Blitar,0.93
+Kota Malang,0.56
+Kota Probolinggo,0.92
+Kota Pasuruan,0.58
+Kota Mojokerto,0.67
+Kota Madiun,0.61
+Kota Surabaya,1.1
+Kota Batu,0.59
+BANTEN,0.86
+Pandeglang,1.25
+Lebak,0.99
+Tangerang,0.68
+Serang,0.79
+Kota Tangerang,0.7
+Kota Cilegon,0.59
+Kota Serang,0.75
+Kota Tangerang Selatan,0.3
+BALI,0.68
+Jembrana,0.86
+Tabanan,0.69
+Badung,0.21
+Gianyar,0.57
+Klungkung,0.33
+Bangli,0.52
+Karang Asem,0.87
+Buleleng,0.72
+Kota Denpasar,0.4
+NUSA TENGGARA BARAT,3.13
+Lombok Barat,3.24
+Lombok Tengah,2.81
+Lombok Timur,3.03
+Sumbawa,2.6
+Dompu,1.84
+Bima,2.47
+Sumbawa Barat,3.81
+Lombok Utara,7.63
+Kota Mataram,1.73
+Kota Bima,1.3
+NUSA TENGGARA TIMUR,4.34
+Sumba Barat,5.54
+Sumba Timur,7.71
+Kupang,4.85
+Timor Tengah Selatan,6.76
+Timor Tengah Utara,3.33
+Belu,2.5
+Alor,4.47
+Lembata,4.93
+Flores Timur,1.16
+Sikka,1.68
+Ende,5.25
+Ngada,2.16
+Manggarai,4.22
+Rote Ndao,6.4
+Manggarai Barat,4
+Sumba Tengah,8.08
+Sumba Barat Daya,4.53
+Nagekeo,1.43
+Manggarai Timur,4.39
+Sabu Raijua,7.24
+Malaka,1.7
+Kota Kupang,1.61
+KALIMANTAN BARAT,1.23
+Sambas,1.05
+Bengkayang,0.94
+Landak,1.88
+Pontianak,0.65
+Sanggau,0.49
+Ketapang,1.63
+Sintang,1.49
+Kapuas Hulu,1.28
+Sekadau,1.03
+Melawi,2.06
+Kayong Utara,1.55
+Kubu Raya,0.83
+Kota Pontianak,1.01
+Kota Singkawang,0.73
+KALIMANTAN TENGAH,0.84
+Kotawaringin Barat,0.57
+Kotawaringin Timur,0.76
+Kapuas,0.92
+Barito Selatan,0.48
+Barito Utara,0.55
+Sukamara,0.38
+Lamandau,0.46
+Seruyan,0.99
+Katingan,0.92
+Pulang Pisau,0.72
+Gunung Mas,0.72
+Barito Timur,0.97
+Murung Raya,0.58
+Kota Palangka Raya,0.51
+KALIMANTAN SELATAN,0.72
+Tanah Laut,0.71
+Kota Baru,0.76
+Banjar,0.31
+Barito Kuala,0.76
+Tapin,0.4
+Hulu Sungai Selatan,0.7
+Hulu Sungai Tengah,0.83
+Hulu Sungai Utara,1.22
+Tabalong,0.95
+Tanah Bumbu,0.64
+Balangan,0.8
+Kota Banjarmasin,0.84
+Kota Banjar Baru,0.66
+KALIMANTAN TIMUR,0.89
+Paser,1.32
+Kutai Barat,0.91
+Kutai Kartanegara,1.5
+Kutai Timur,1.26
+Berau,0.49
+Penajam Paser Utara,1.11
+Mahakam Hulu,0.99
+Kota Balikpapan,0.23
+Kota Samarinda,0.68
+Kota Bontang,0.92
+KALIMANTAN UTARA,1.21
+Malinau,1.13
+Bulungan,1.53
+Tana Tidung,0.47
+Nunukan,0.8
+Kota Tarakan,1.45
+SULAWESI UTARA,1.37
+Bolaang Mongondow,1.32
+Minahasa,1.36
+Kepulauan Sangihe,1.83
+Kepulauan Talaud,1.4
+Minahasa Selatan,1.83
+Minahasa Utara,0.92
+Bolaang Mongondow Utara,1.11
+Siau Tagulandang Biaro,1.58
+Minahasa Tenggara,2.47
+Bolaang Mongondow Selatan,2.11
+Bolaang Mongondow Timur,0.74
+Kota Manado,0.77
+Kota Bitung,1.23
+Kota Tomohon,0.88
+Kota Kotamobagu,0.67
+SULAWESI TENGAH,2.55
+Banggai Kepulauan,2.71
+Banggai,1.98
+Morowali,2.88
+Poso,2.57
+Donggala,3.17
+Toli-Toli,2.3
+Buol,2.65
+Parigi Moutong,2.2
+Tojo Una-Una,2.89
+Sigi,2.64
+Banggai Laut,2.89
+Morowali Utara,2.57
+Kota Palu,1.02
+SULAWESI SELATAN,1.72
+Kepulauan Selayar,3.74
+Bulukumba,1.1
+Bantaeng,1.43
+Jeneponto,2.84
+Takalar,1.68
+Gowa,1.42
+Sinjai,1.04
+Maros,2.58
+Pangkajene Dan Kepulauan,3.04
+Barru,1.43
+Bone,1.56
+Soppeng,1.25
+Wajo,1.53
+Sidenreng Rappang,0.85
+Pinrang,1.62
+Enrekang,1.83
+Luwu,2.96
+Tana Toraja,2.15
+Luwu Utara,2.02
+Luwu Timur,1.6
+Toraja Utara,2.2
+Kota Makassar,0.64
+Kota Parepare,0.85
+Kota Palopo,1.75
+SULAWESI TENGGARA,1.87
+Buton,1.96
+Muna,2.43
+Konawe,3.32
+Kolaka,2.47
+Konawe Selatan,1.55
+Bombana,2.49
+Wakatobi,2.52
+Kolaka Utara,2.73
+Buton Utara,2.55
+Konawe Utara,2.87
+Kolaka Timur,3.37
+Konawe Kepulauan,2.82
+Muna Barat,1.88
+Buton Tengah,2.21
+Buton Selatan,2.44
+Kota Kendari,0.75
+Kota Baubau,1.13
+GORONTALO,3.68
+Boalemo,3.04
+Gorontalo,4.66
+Pohuwato,3.5
+Bone Bolango,5
+Gorontalo Utara,2.55
+Kota Gorontalo,0.6
+SULAWESI BARAT,1.88
+Majene,2.28
+Polewali Mandar,2.02
+Mamasa,2.19
+Mamuju,0.9
+Mamuju Utara,0.76
+Mamuju Tengah,0.44
+MALUKU,3.5
+Maluku Tenggara Barat,5.29
+Maluku Tenggara,2.9
+Maluku Tengah,4.17
+Buru,2.74
+Kepulauan Aru,5.56
+Seram Bagian Barat,4.48
+Seram Bagian Timur,4.87
+Maluku Barat Daya,6.51
+Buru Selatan,2.37
+Kota Ambon,0.42
+Kota Tual,4.46
+MALUKU UTARA,0.81
+Halmahera Barat,0.95
+Halmahera Tengah,2.01
+Kepulauan Sula,0.67
+Halmahera Selatan,0.45
+Halmahera Utara,0.63
+Halmahera Timur,4.07
+Pulau Morotai,0.83
+Pulau Taliabu,0.9
+Kota Ternate,0.37
+Kota Tidore Kepulauan,0.4
+PAPUA BARAT,6.74
+Fakfak,3.82
+Kaimana,2.35
+Teluk Wondama,10.01
+Teluk Bintuni,14.11
+Manokwari,5.64
+Manokwari Selatan,9.86
+Pegunungan Arfak,8.16
+PAPUA BARAT DAYA,-
+Raja Ampat,3.58
+Sorong,12.56
+Sorong Selatan,4.93
+Maybrat,7.87
+Tambrauw,5.83
+Kota Sorong,3.14
+PAPUA,7.5
+Jayapura,2.35
+Kepulauan Yapen,6.11
+Biak Numfor,6.63
+Sarmi,2.74
+Keerom,3.97
+Waropen,12.27
+Supiori,8.59
+Mamberamo Raya,2.17
+Kota Jayapura,3.2
+PAPUA SELATAN,-
+Merauke,2.11
+Boven Digoel,3.32
+Mappi,3.86
+Asmat,3.94
+PAPUA TENGAH,-
+Mimika,4.54
+Dogiyai,4.84
+Deiyai,11.63
+Nabire,10.99
+Paniai,10.04
+Intan Jaya,13.18
+Puncak,8.87
+Puncak Jaya,6.93
+PAPUA PEGUNUNGAN,-
+Nduga,7.66
+Jayawijaya,14.58
+Lanny Jaya,12.12
+Tolikara,4.69
+Mamberamo Tengah,6.73
+Yalimo,11.47
+Yahukimo,9.42
+Pegunungan Bintang,7.85

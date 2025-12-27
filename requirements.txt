@@ -1,0 +1,22 @@
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Web Scraping
+snscrape
+
+# Natural Language Processing
+nltk>=3.8
+sastrawi>=1.0.1
+
+# Network Analysis
+networkx>=3.0
+
+# Web Dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+pyvis>=0.3.2

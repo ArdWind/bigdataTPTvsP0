@@ -1,0 +1,67 @@
+DATA EKSTERNAL (DATA MEDIA SOSIAL) TIKTOK,,,,,,,,,,,,,
+DATA KONTEN UTAMA DAN BALASAN KOMENTAR,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data Postingan Utama (Content Nodes),,,,,,,,,,,,,
+ID Unik,Jenis Konten,Tautan Konten,Username,Teks Konten,Sentimen,Jumlah Views,Jumlah Likes,Jumlah Komentar,Jumlah Shares,Tahun,Balasan ID Komentar,Platform,Lokasi
+T01,Postingan Utama,https://vt.tiktok.com/ZSPyknAdb/,tribuntimur.com,"Lowongan kerja terbaru perusahaan BUMN cari tamatan SMA/SMK/MS/paket C, minat? Daftar di sini",,3953000,15900,193,1406,2021,,TikTok,Indonesia
+T02,Postingan Utama,https://vt.tiktok.com/ZSPyUtkHd/,mba.lumina,"Setelah satu bulan di PHK, begini ceritanya",,1500000,41800,451,174,2021,,TikTok,Indonesia
+T03,Postingan Utama,https://vt.tiktok.com/ZSPyPbJyx/,aevafatma,Upgrade surat lamaran kerja biar dilirik HRD,,5300000,552200,2581,18600,2021,,TikTok,Indonesia
+T04,Postingan Utama,https://vt.tiktok.com/ZSPym38u5/,pertamina,Daftar rekrutmen BPS,,339200,19000,821,2117,2021,,TikTok,Indonesia
+T05,Postingan Utama,https://vt.tiktok.com/ZSPyXsDTc/,lovlavina,Sudah berbulan-bulan ga dapet kerja di tambah lagi pandemi makin susahlagi cari kerja ujung-ujungnya sampe sekarang belum dapet,,294800,25400,441,397,2021,,TikTok,Indonesia
+T06,Postingan Utama,https://vt.tiktok.com/ZSPyq6pAU/,estherlubis,"Ceritakan apa yang terjadi di hidupmu dan keluargamu selama PPKM, good bless everyone",,93500,9354,69,461,2021,,TikTok,Indonesia
+T07,Postingan Utama,https://vt.tiktok.com/ZSPf35YCT/,anggunvidiaa,Informasi buat kalian yang mau jadi bagian dari KAI,,126600,10800,705,157,2021,,TikTok,Indonesia
+T08,Postingan Utama,https://vt.tiktok.com/ZSPfKj5NS/,akmalalfaridzi24,Salam amplop coklat,,34100,1765,246,8,2021,,TikTok,Indonesia
+T09,Postingan Utama,https://vt.tiktok.com/ZSPfEYWcB/,farhanadili,"Sudah berusaha tapi belum ada hasil, maaf",,611900,61500,4840,1236,2021,,TikTok,Indonesia
+T10,Postingan Utama,https://vt.tiktok.com/ZSPfoK14B/,vmuliana,Cara masuk BUMN,,500400,33100,359,1128,2021,,TikTok,Indonesia
+T11,Postingan Utama,https://vt.tiktok.com/ZSPPeyW7d/,jobrove.com,Mau kerja dimana?,,2000000,29600,327,254,2022,,TikTok,Indonesia
+T12,Postingan Utama,https://vt.tiktok.com/ZSPP8RASY/,ww.197,"Lebih baik cape cari kerja, dari pada cape nyari kerja",,2800000,102600,3579,6958,2022,,TikTok,Indonesia
+T13,Postingan Utama,https://vt.tiktok.com/ZSPPLBBEL/,aculsss,"Yang setiap harinya masih ada kegiatan untuk bekerja, yang setiap bulannya masih ada penghasilan, yuk sama-sama kita bersyukur",,1100000,79100,3743,6229,2022,,TikTok,Indonesia
+T14,Postingan Utama,https://vt.tiktok.com/ZSPPNxJUV/,markat.id,Ada yang jadi korban PHK shopee gak nih?,,1200000,36400,1275,2822,2022,,TikTok,Indonesia
+T15,Postingan Utama,https://vt.tiktok.com/ZSPPYFafa/,syekharpi,BPS: sarjana yang menganggur hampir 1 juta orang,,189400,15500,151,621,2022,,TikTok,Indonesia
+T16,Postingan Utama,https://vt.tiktok.com/ZSPPjMuuS/,tbglobal.id,Mana nih yang pengen gabung BLPK? ada info loker buat kamu di sini,,440300,22400,209,862,2022,,TikTok,Indonesia
+T17,Postingan Utama,https://vt.tiktok.com/ZSPP6PbCu/,kuykoreapedia,Semangat buat pejuang loker,,136900,6925,323,259,2022,,TikTok,Indonesia
+T18,Postingan Utama,https://vt.tiktok.com/ZSPPMXpLW/,mba_s003,Pengangguran kumpul sini,,112300,9938,1094,112,2022,,TikTok,Indonesia
+T19,Postingan Utama,https://vt.tiktok.com/ZSPPh1ENB/,intanerliann,Cari loker gampang buat lulusan SMA/SMK,,1400000,147200,1340,3736,2022,,TikTok,Indonesia
+T20,Postingan Utama,https://vt.tiktok.com/ZSPPktMWB/,cocolatee4,Bismillah yuk Istiqomah jalur langit,,248500,9623,243,544,2022,,TikTok,Indonesia
+T21,Postingan Utama,https://vt.tiktok.com/ZSPPAFdEq/,geraldvincentt,"Pengangguran di indonesia banyak banget? 7,86 juta orang ? ko bisa",,434900,23100,793,344,2023,,TikTok,Indonesia
+T22,Postingan Utama,https://vt.tiktok.com/ZSPPDkn5q/,dandyzeo,Patungan ajalah bikin pt sendiri,,1300000,77900,3214,1871,2023,,TikTok,Indonesia
+T23,Postingan Utama,https://vt.tiktok.com/ZSPPU6CX2/,devandemotivator,Jumlah pengangguran udah melebihi UMR daerah mu,,176300,7141,516,432,2023,,TikTok,Indonesia
+T24,Postingan Utama,https://vt.tiktok.com/ZSPPyyvXR/,growthacker_id,"Ya gimana ya, sekarang freshgrad dituntut punya pengalaman 2 tahun bekerja",,512800,69800,313,944,2023,,TikTok,Indonesia
+T25,Postingan Utama,https://vt.tiktok.com/ZSPPfF4Ek/,idxchannel,"Angka pengangguran mencapai 8,4 juta orang",,36600,996,124,480,2023,,TikTok,Indonesia
+T26,Postingan Utama,https://vt.tiktok.com/ZSPPPJd3F/,kingppwhite,Kerasa banget vibes penganggurannya,,1700000,221300,4523,33700,2023,,TikTok,Indonesia
+T27,Postingan Utama,https://vt.tiktok.com/ZSPP5t9L2/,henrianriyadi,Ngelamar tapi ga ada panggilan?Interview di tanya gaji mulu tapi ga ada kelanjutan ,,15200000,1400000,11900,44500,2023,,TikTok,Indonesia
+T28,Postingan Utama,https://vt.tiktok.com/ZSPPm1eEC/,aldiasidqii,Ga kerasa bertahun-tahun nganggur,,1500000,96500,1647,2395,2023,,TikTok,Indonesia
+T29,Postingan Utama,https://vt.tiktok.com/ZSPPuthFT/,fadhelaudia,wajar banyak pengangguran?,,153900,8278,477,139,2023,,TikTok,Indonesia
+T30,Postingan Utama,https://vt.tiktok.com/ZSPPHX2ne/,sukangasihtips,Demo PHK karyawan,,1600000,41600,6287,2649,2023,,TikTok,Indonesia
+T31,Postingan Utama,https://vt.tiktok.com/ZSPPxngVT/,adammuhirsyad,Akhir tahun adalah timing terbaik untuk freshgraduate buat cari kerja,,246200,23200,250,1324,2024,,TikTok,Indonesia
+T32,Postingan Utama,https://vt.tiktok.com/ZSPPXJCDg/,shivadestya,Loker dari astra group untuk SMK/SMK/S1,,244600,19300,430,3590,2024,,TikTok,Indonesia
+T33,Postingan Utama,https://vt.tiktok.com/ZSPPX3Hh5/,bowliiv,Website untuk daftar kerja,,239700,13400,74,867,2024,,TikTok,Indonesia
+T34,Postingan Utama,https://vt.tiktok.com/ZSPP4BepP/,mtaufikalhbs,Mau kerja di jakarta?,,321400,18900,317,886,2024,,TikTok,Indonesia
+T35,Postingan Utama,https://vt.tiktok.com/ZSPP4Hhq8/,rakaadityapratama_,Mau sampai kapan nganggur ya Allah,,783100,69900,3047,3554,2024,,TikTok,Indonesia
+T36,Postingan Utama,https://vt.tiktok.com/ZSPPV2Luw/,anisyanwt,Kehidupan pengangguran,,1900000,156700,220300,24100,2024,,TikTok,Indonesia
+T37,Postingan Utama,https://vt.tiktok.com/ZSPPV7oHx/,raymondchins,"9,9 juta Gen z pengangguran",,609700,38300,931,52340,2024,,TikTok,Indonesia
+T38,Postingan Utama,https://vt.tiktok.com/ZSPPqn4ME/,faarsyazz,"Tetap berbaik sangka dan manifest, terkena dampak PHK",,13400,10400,219,534,2024,,TikTok,Indonesia
+T39,Postingan Utama,https://vt.tiktok.com/ZSPPbSfcF/,dandyzeo,Ketika nganggur udah mau setahun,,51500,2734,100,324,2024,,TikTok,Indonesia
+T40,Postingan Utama,https://vt.tiktok.com/ZSPPgN3Rb/,lifeofdesno,Jangan S2 dulu sebelum punya pengalaman kerja,,142400,11100,393,388,2024,,TikTok,Indonesia
+T41,Postingan Utama,https://vt.tiktok.com/ZSPPpoChc/,republikaonline,"Jangan salah, para gen z ini ga berjuang dengan tangan kosong",,2100000,100500,2757,12200,2025,,TikTok,Indonesia
+T42,Postingan Utama,https://vt.tiktok.com/ZSPPsC2CK/,tan_346,Quarter life crisis,,160100,27400,1066,600,2025,,TikTok,Indonesia
+T43,Postingan Utama,https://vt.tiktok.com/ZSPPG6os6/,kitanantara,Melaporkan indonesia menjadi nehara dengan pengangguran terbanyak,,877200,57300,5631,7726,2025,,TikTok,Indonesia
+T44,Postingan Utama,https://vt.tiktok.com/ZSPPt5daP/,diniramadhaini,Juara masukin loker ke aplikasi jobstreet ga pernah ada yang di panggil,,296600,18500,670,542,2025,,TikTok,Indonesia
+T45,Postingan Utama,https://vt.tiktok.com/ZSPPnNqq8/,thepovlogy,Lebih dari 1 juta sarjana di indonesia jadi pengangguran,,229300,11600,1721,3890,2025,,TikTok,Indonesia
+T46,Postingan Utama,https://vt.tiktok.com/ZSPPnsaU5/,irwandiferry,"Dipaksa menganggur, alih-alih membuka banyak lapangan pekerjaan",,256400,15300,900,464,2025,,TikTok,Indonesia
+T47,Postingan Utama,https://vt.tiktok.com/ZSPPWNTeN/,namaakuhelmi,Ngerasa nyari kerja as freshgraduate makin sulit?,,134800,9359,205,2678,2025,,TikTok,Indonesia
+T48,Postingan Utama,https://vt.tiktok.com/ZSPP7VN2C/,millenialzkece,"Banyak pengangguran di indonesia di sarankan kerja ke luar negri, kenapa?",,1700000,69800,2522,4627,2025,,TikTok,Indonesia
+T49,Postingan Utama,https://vt.tiktok.com/ZSPPvNb66/,dj_donny,Menyederhanakan pekerja migran sebagai “budaya merantau” adalah ngawur dan tidak empati” karena di antaranya pergi karena tidak ada pilihan lain untuk menyambung hidup,,2000000,16800,6906,8096,2025,,TikTok,Indonesia
+T50,Postingan Utama,https://vt.tiktok.com/ZSPPv4ens/,gabutmu3046,2025 hampir selesai semoga drama pengangguran ini akan berlalu,,185300,29200,323,1801,2025,,TikTok,Indonesia
+T51,Postingan Utama,https://www.tiktok.com/@tempo.co/video/6823188790429928705?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,tempo.co,"Pandemi Covid-19 membuat pengangguran harus putar otak. Salah satunya Tio, perantau dari Semarang.",,390300,4293,12,26,2020,,TikTok,Indonesia
+T52,Postingan Utama,https://www.tiktok.com/@hey.maretchu/video/6884054346682666242?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,hey.maretchu,Saat pandemi Alfamart masih buka lowongan kok temen-temen.,,22800,441,29,37,2020,,TikTok,Indonesia
+T53,Postingan Utama,https://www.tiktok.com/@sicepatekspres/video/6908719936525389057?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,sicepatekspres,Ini nih buat yang tanya syarat melamar kerja di SiCepat 🥰,,1586000,5814,278,379,2020,,TikTok,Indonesia
+T54,Postingan Utama,https://www.tiktok.com/@sweaterpolos.id/video/6911687823577959682?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,sweaterpolos.id,kerja di @sweaterpolos.id !😍 jgn lupa duet in & mention ya,,4464000,376000,106,2162,2020,,TikTok,Indonesia
+T55,Postingan Utama,https://www.tiktok.com/@estehindonesia/video/6901580065444809985?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,estehindonesia,Ditunggu e-mailnya yah! Semoga bisa menjadi bagian dari Esteh Indonesia🤗,,1100000,526000,1400,3076,2020,,TikTok,Indonesia
+T56,Postingan Utama,https://www.tiktok.com/@ussindonesia/video/6903858515912232194?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,ussindonesia,Buat kalian yang lagi cari kerjaan!,,2039000,161000,445,342,2020,,TikTok,Indonesia
+T57,Postingan Utama,https://www.tiktok.com/@mscosmeticofficial/video/6906677324645780737?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,mscosmeticofficial,YUK buruan kirim CV dan DUETIN video ini yaa😍,,7102000,389000,998,1230,2020,,TikTok,Indonesia
+T58,Postingan Utama,https://www.tiktok.com/@riffasancati/video/6903479863009824002?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,riffasancati,The sad truth in 2020🥺,,807000,1646,27,57,2020,,TikTok,Indonesia
+T59,Postingan Utama,https://www.tiktok.com/@mrs_nyuph/video/6899654974368713986?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,mrs_nyuph,Lowongan Kerja BUMN November 2020,,1283000,4564,38,275,2020,,TikTok,Indonesia
+T60,Postingan Utama,https://www.tiktok.com/@dedejummia/video/6876485090935901441?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,dedejummia,JANGAN DI SKIP buat kalian yang udah lolos #prakerja #prakerja2020 semoga membantu 🙏,,3564000,7037,506,292,2020,,TikTok,Indonesia
+T61,Postingan Utama,https://www.tiktok.com/@mudacumasekali/video/6772116083567594754?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,mudacumasekali,Ati ati nganggur ,,221000,596,48,112,2019,,TikTok,Indonesia
+T62,Postingan Utama,https://www.tiktok.com/@icaaca_zz/video/6685243189613432065?is_from_webapp=1&sender_device=pc&web_id=7541603112566588935,icaaca_zz,benerbener susah pengangguran 2019 ini mahh,,1813000,15000,239,33,2019,,TikTok,Indonesia

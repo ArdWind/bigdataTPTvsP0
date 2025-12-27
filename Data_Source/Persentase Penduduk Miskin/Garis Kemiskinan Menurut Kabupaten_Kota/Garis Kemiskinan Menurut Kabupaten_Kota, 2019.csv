@@ -1,0 +1,555 @@
+﻿Nama Wilayah,
+,Garis Kemiskinan Menurut Kabupaten/Kota (Rupiah/kapita/bulan)
+,2019
+ACEH,486935
+Simeulue,404739
+Aceh Singkil,450217
+Aceh Selatan,369107
+Aceh Tenggara,357015
+Aceh Timur,417715
+Aceh Tengah,468577
+Aceh Barat,471058
+Aceh Besar,447563
+Pidie,462059
+Bireuen,393198
+Aceh Utara,353856
+Aceh Barat Daya,358059
+Gayo Lues,387893
+Aceh Tamiang,437991
+Nagan Raya,446144
+Aceh Jaya,391677
+Bener Meriah,431643
+Pidie Jaya,455995
+Kota Banda Aceh,628493
+Kota Sabang,563100
+Kota Langsa,380906
+Kota Lhokseumawe,376832
+Kota Subulussalam,351093
+SUMATERA UTARA,466122
+Nias,361698
+Mandailing Natal,356058
+Tapanuli Selatan,364798
+Tapanuli Tengah,376474
+Tapanuli Utara,377948
+Toba Samosir,373020
+Labuhan Batu,389402
+Asahan,330460
+Simalungun,359540
+Dairi,341511
+Karo,460870
+Deli Serdang,390440
+Langkat,392050
+Nias Selatan,279468
+Humbang Hasundutan,336500
+Pakpak Bharat,287654
+Samosir,315825
+Serdang Bedagai,382283
+Batu Bara,408417
+Padang Lawas Utara,342885
+Padang Lawas,332350
+Labuhan Batu Selatan,368205
+Labuhan Batu Utara,422063
+Nias Utara,390564
+Nias Barat,393450
+Kota Sibolga,425236
+Kota Tanjung Balai,421671
+Kota Pematang Siantar,502726
+Kota Tebing Tinggi,460533
+Kota Medan,532055
+Kota Binjai,403798
+Kota Padangsidimpuan,382884
+Kota Gunungsitoli,339671
+SUMATERA BARAT,503652
+Kepulauan Mentawai,310033
+Pesisir Selatan,431817
+Solok,415649
+Sijunjung,400861
+Tanah Datar,379041
+Padang Pariaman,411182
+Agam,379304
+Lima Puluh Kota,403030
+Pasaman,347153
+Solok Selatan,387438
+Dharmasraya,439117
+Pasaman Barat,417742
+Kota Padang,534857
+Kota Solok,440618
+Kota Sawah Lunto,374615
+Kota Padang Panjang,450377
+Kota Bukittinggi,475755
+Kota Payakumbuh,482184
+Kota Pariaman,446514
+RIAU,500612
+Kuantan Singingi,545403
+Indragiri Hulu,474298
+Indragiri Hilir,450728
+Pelalawan,534078
+Siak,443868
+Kampar,434601
+Rokan Hulu,488401
+Bengkalis,533123
+Rokan Hilir,388701
+Kepulauan Meranti,483377
+Kota Pekanbaru,516368
+Kota Dumai,439152
+JAMBI,448509
+Kerinci,356059
+Merangin,406466
+Sarolangun,424223
+Batang Hari,420227
+Muaro Jambi,375372
+Tanjung Jabung Timur,374735
+Tanjung Jabung Barat,364012
+Tebo,404473
+Bungo,390439
+Kota Jambi,488034
+Kota Sungai Penuh,373673
+SUMATERA SELATAN,410532
+Ogan Komering Ulu,428200
+Ogan Komering Ilir,347121
+Muara Enim,367761
+Lahat,428309
+Musi Rawas,437854
+Musi Banyuasin,486476
+Banyu Asin,397496
+Ogan Komering Ulu Selatan,319333
+Ogan Komering Ulu Timur,321629
+Ogan Ilir,433616
+Empat Lawang,315699
+Penukal Abab Lematang Ilir,388208
+Musi Rawas Utara,470485
+Kota Palembang,521489
+Kota Prabumulih,541648
+Kota Pagar Alam,328745
+Kota Lubuklinggau,477756
+BENGKULU,499660
+Bengkulu Selatan,377823
+Rejang Lebong,449999
+Bengkulu Utara,369367
+Kaur,322815
+Seluma,386321
+Mukomuko,426737
+Lebong,404368
+Kepahiang,374568
+Bengkulu Tengah,406137
+Kota Bengkulu,660442
+LAMPUNG,418309
+Lampung Barat,400662
+Tanggamus,359580
+Lampung Selatan,389236
+Lampung Timur,360610
+Lampung Tengah,394338
+Lampung Utara,400248
+Way Kanan,341012
+Tulangbawang,393676
+Pesawaran,372649
+Pringsewu,422691
+Mesuji,382020
+Tulang Bawang Barat,391096
+Pesisir Barat,407290
+Kota Bandar Lampung,588177
+Kota Metro,371636
+KEP. BANGKA BELITUNG,677716
+Bangka,541925
+Belitung,766276
+Bangka Barat,549496
+Bangka Tengah,693842
+Bangka Selatan,523155
+Belitung Timur,684277
+Kota Pangkal Pinang,748487
+KEPULAUAN RIAU,594059
+Karimun,376853
+Bintan,384396
+Natuna,378573
+Lingga,429764
+Kepulauan Anambas,382449
+Kota Batam,686956
+Kota Tanjung Pinang,659170
+DKI JAKARTA,637260
+Kepulauan Seribu,629315
+Kota Jakarta Selatan,729256
+Kota Jakarta Timur,539510
+Kota Jakarta Pusat,625177
+Kota Jakarta Barat,517646
+Kota Jakarta Utara,549506
+JAWA BARAT,386198
+Bogor,373799
+Sukabumi,309676
+Cianjur,350760
+Bandung,345177
+Garut,301202
+Tasikmalaya,311848
+Ciamis,363750
+Kuningan,340775
+Cirebon,381372
+Majalengka,445184
+Sumedang,342073
+Indramayu,458240
+Subang,339607
+Purwakarta,367273
+Karawang,440347
+Bekasi,481732
+Bandung Barat,341307
+Pangandaran,367748
+Kota Bogor,513343
+Kota Sukabumi,520742
+Kota Bandung,474448
+Kota Cirebon,444574
+Kota Bekasi,617718
+Kota Depok,644860
+Kota Cimahi,484804
+Kota Tasikmalaya,457899
+Kota Banjar,334590
+JAWA TENGAH,369385
+Cilacap,337572
+Banyumas,385140
+Purbalingga,355702
+Banjarnegara,301792
+Kebumen,362847
+Purworejo,345458
+Wonosobo,340827
+Magelang,325921
+Boyolali,332996
+Klaten,405537
+Sukoharjo,377319
+Wonogiri,327364
+Karanganyar,365151
+Sragen,335334
+Grobogan,375521
+Blora,335837
+Rembang,384561
+Pati,423922
+Kudus,406470
+Jepara,386693
+Demak,411202
+Semarang,377674
+Temanggung,310176
+Kendal,369769
+Batang,286116
+Pekalongan,382832
+Pemalang,372115
+Tegal,365334
+Brebes,414642
+Kota Magelang,481282
+Kota Surakarta,473516
+Kota Salatiga,418955
+Kota Semarang,474930
+Kota Pekalongan,425026
+Kota Tegal,465047
+D I YOGYAKARTA,432026
+Kulon Progo,333781
+Bantul,381538
+Gunung Kidul,301125
+Sleman,382868
+Kota Yogyakarta,495562
+JAWA TIMUR,397687
+Pacitan,283321
+Ponorogo,313175
+Trenggalek,323787
+Tulungagung,341651
+Blitar,318534
+Kediri,305491
+Malang,329512
+Lumajang,296633
+Jember,339685
+Banyuwangi,353873
+Bondowoso,380350
+Situbondo,305280
+Probolinggo,417991
+Pasuruan,335653
+Sidoarjo,462738
+Mojokerto,394003
+Jombang,399633
+Nganjuk,408160
+Madiun,344994
+Magetan,336989
+Ngawi,325235
+Bojonegoro,347786
+Tuban,348503
+Lamongan,380220
+Gresik,466154
+Bangkalan,389170
+Sampang,346075
+Pamekasan,332775
+Sumenep,357473
+Kota Kediri,471893
+Kota Blitar,456778
+Kota Malang,543966
+Kota Probolinggo,501505
+Kota Pasuruan,434435
+Kota Mojokerto,467997
+Kota Madiun,478304
+Kota Surabaya,567474
+Kota Batu,501016
+BANTEN,462726
+Pandeglang,326517
+Lebak,298201
+Tangerang,476636
+Serang,309036
+Kota Tangerang,584318
+Kota Cilegon,459469
+Kota Serang,379641
+Kota Tangerang Selatan,593781
+BALI,400624
+Jembrana,390102
+Tabanan,425926
+Badung,547186
+Gianyar,382380
+Klungkung,312864
+Bangli,329014
+Karang Asem,315805
+Buleleng,401377
+Kota Denpasar,571246
+NUSA TENGGARA BARAT,384880
+Lombok Barat,431862
+Lombok Tengah,404633
+Lombok Timur,430727
+Sumbawa,340254
+Dompu,328740
+Bima,327602
+Sumbawa Barat,468122
+Lombok Utara,437543
+Kota Mataram,480304
+Kota Bima,352593
+NUSA TENGGARA TIMUR,373922
+Sumba Barat,331713
+Sumba Timur,343589
+Kupang,356463
+Timor Tengah Selatan,318986
+Timor Tengah Utara,363162
+Belu,349414
+Alor,311560
+Lembata,359792
+Flores Timur,279268
+Sikka,301994
+Ende,363508
+Ngada,336601
+Manggarai,316910
+Rote Ndao,305166
+Manggarai Barat,318546
+Sumba Tengah,285048
+Sumba Barat Daya,355252
+Nagekeo,328646
+Manggarai Timur,318762
+Sabu Raijua,374256
+Malaka,348919
+Kota Kupang,545219
+KALIMANTAN BARAT,438555
+Sambas,427240
+Bengkayang,357112
+Landak,374117
+Pontianak,360962
+Sanggau,328763
+Ketapang,454160
+Sintang,556885
+Kapuas Hulu,452471
+Sekadau,329835
+Melawi,534933
+Kayong Utara,302811
+Kubu Raya,401586
+Kota Pontianak,523736
+Kota Singkawang,492131
+KALIMANTAN TENGAH,438248
+Kotawaringin Barat,360942
+Kotawaringin Timur,416777
+Kapuas,305809
+Barito Selatan,408072
+Barito Utara,472552
+Sukamara,469353
+Lamandau,430656
+Seruyan,454971
+Katingan,434609
+Pulang Pisau,365674
+Gunung Mas,403045
+Barito Timur,487185
+Murung Raya,462334
+Kota Palangka Raya,379420
+KALIMANTAN SELATAN,457222
+Tanah Laut,480010
+Kota Baru,416388
+Banjar,429422
+Barito Kuala,318995
+Tapin,406367
+Hulu Sungai Selatan,461581
+Hulu Sungai Tengah,365008
+Hulu Sungai Utara,436997
+Tabalong,463980
+Tanah Bumbu,475763
+Balangan,396532
+Kota Banjarmasin,509773
+Kota Banjar Baru,614757
+KALIMANTAN TIMUR,609155
+Paser,477440
+Kutai Barat,542393
+Kutai Kartanegara,503968
+Kutai Timur,569449
+Berau,526615
+Penajam Paser Utara,466918
+Mahakam Hulu,588756
+Kota Balikpapan,572108
+Kota Samarinda,658307
+Kota Bontang,582188
+KALIMANTAN UTARA,651416
+Malinau,585654
+Bulungan,448548
+Tana Tidung,406949
+Nunukan,430630
+Kota Tarakan,654308
+SULAWESI UTARA,371283
+Bolaang Mongondow,315400
+Minahasa,275444
+Kepulauan Sangihe,263268
+Kepulauan Talaud,284681
+Minahasa Selatan,324860
+Minahasa Utara,321679
+Bolaang Mongondow Utara,254835
+Siau Tagulandang Biaro,302736
+Minahasa Tenggara,325896
+Bolaang Mongondow Selatan,316305
+Bolaang Mongondow Timur,323989
+Kota Manado,396196
+Kota Bitung,391479
+Kota Tomohon,394584
+Kota Kotamobagu,323292
+SULAWESI TENGAH,441036
+Banggai Kepulauan,338815
+Banggai,395700
+Morowali,428744
+Poso,477801
+Donggala,336404
+Toli-Toli,317448
+Buol,351135
+Parigi Moutong,414380
+Tojo Una-Una,472245
+Sigi,344631
+Banggai Laut,335604
+Morowali Utara,441554
+Kota Palu,522444
+SULAWESI SELATAN,329880
+Kepulauan Selayar,370380
+Bulukumba,330161
+Bantaeng,309357
+Jeneponto,359883
+Takalar,356973
+Gowa,385820
+Sinjai,294916
+Maros,405944
+Pangkajene Dan Kepulauan,322958
+Barru,322248
+Bone,325422
+Soppeng,297546
+Wajo,311017
+Sidenreng Rappang,312800
+Pinrang,294349
+Enrekang,331667
+Luwu,318911
+Tana Toraja,316911
+Luwu Utara,342277
+Luwu Timur,333739
+Toraja Utara,314426
+Kota Makassar,418831
+Kota Parepare,323839
+Kota Palopo,324233
+SULAWESI TENGGARA,327402
+Buton,254013
+Muna,342948
+Konawe,293801
+Kolaka,370036
+Konawe Selatan,235654
+Bombana,308396
+Wakatobi,278929
+Kolaka Utara,454127
+Buton Utara,331555
+Konawe Utara,273544
+Kolaka Timur,369870
+Konawe Kepulauan,314815
+Muna Barat,342811
+Buton Tengah,251702
+Buton Selatan,235847
+Kota Kendari,350647
+Kota Baubau,329977
+GORONTALO,333070
+Boalemo,385122
+Gorontalo,425827
+Pohuwato,275240
+Bone Bolango,380029
+Gorontalo Utara,278746
+Kota Gorontalo,520095
+SULAWESI BARAT,328144
+Majene,360362
+Polewali Mandar,376827
+Mamasa,256544
+Mamuju,259969
+Mamuju Utara,332145
+Mamuju Tengah,239592
+MALUKU,508777
+Maluku Tenggara Barat,423823
+Maluku Tenggara,464649
+Maluku Tengah,474224
+Buru,463169
+Kepulauan Aru,438848
+Seram Bagian Barat,394628
+Seram Bagian Timur,375040
+Maluku Barat Daya,468842
+Buru Selatan,596469
+Kota Ambon,571315
+Kota Tual,535425
+MALUKU UTARA,444650
+Halmahera Barat,324849
+Halmahera Tengah,454180
+Kepulauan Sula,359497
+Halmahera Selatan,310161
+Halmahera Utara,238878
+Halmahera Timur,545238
+Pulau Morotai,265761
+Pulau Taliabu,387664
+Kota Ternate,578185
+Kota Tidore Kepulauan,435277
+PAPUA BARAT,573313
+Fakfak,544783
+Kaimana,412130
+Teluk Wondama,557702
+Teluk Bintuni,644838
+Manokwari,629074
+Manokwari Selatan,635595
+Pegunungan Arfak,628281
+PAPUA BARAT DAYA,-
+Raja Ampat,347203
+Sorong,357900
+Sorong Selatan,323369
+Maybrat,359500
+Tambrauw,362884
+Kota Sorong,725117
+PAPUA,540099
+Jayapura,589521
+Kepulauan Yapen,618487
+Biak Numfor,543971
+Sarmi,518491
+Keerom,655056
+Waropen,655060
+Supiori,447524
+Mamberamo Raya,683779
+Kota Jayapura,992610
+PAPUA SELATAN,-
+Merauke,346502
+Boven Digoel,458012
+Mappi,330427
+Asmat,364728
+PAPUA TENGAH,-
+Mimika,836301
+Dogiyai,492905
+Deiyai,579263
+Nabire,579753
+Paniai,479877
+Intan Jaya,627128
+Puncak,630074
+Puncak Jaya,604945
+PAPUA PEGUNUNGAN,-
+Nduga,341566
+Jayawijaya,420471
+Lanny Jaya,464328
+Tolikara,382936
+Mamberamo Tengah,388619
+Yalimo,330040
+Yahukimo,414936
+Pegunungan Bintang,560354
