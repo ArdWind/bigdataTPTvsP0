@@ -9,7 +9,7 @@ FEATURES_PATH = 'cleaned_data/feature_names.pkl'
 OUTPUT_FORECAST = 'cleaned_data/data_forecasting_2026_2027.csv'
 
 def run_forecasting():
-    print("🚀 [07] Memulai Peramalan Kemiskinan 2026-2027...")
+    print("🚀 [07] Memulai Peramalan Kemiskinan 5 Tahun Kedepan...")
     
     if not os.path.exists(MODEL_PATH) or not os.path.exists(FEATURES_PATH):
         print("🛑 Error: Model atau Daftar Fitur tidak ditemukan. Jalankan skrip 05 dulu.")
@@ -20,14 +20,15 @@ def run_forecasting():
     features = joblib.load(FEATURES_PATH)
     df = pd.read_csv(DATA_FINAL_PATH)
     
-    # 2. Ambil data tahun terakhir (2025) sebagai basis
+    # 2. Ambil data tahun terakhir sebagai basis
     latest_year = df['Tahun'].max()
     df_latest = df[df['Tahun'] == latest_year].copy()
     
     forecast_results = []
 
-    # 3. Loop untuk tahun 2026 dan 2027
-    for year_target in [2026, 2027]:
+    # 3. Loop untuk 5 tahun kedepan
+    for i in range(1, 6):  # 1, 2, 3, 4, 5
+        year_target = latest_year + i
         print(f"   Memproses Prediksi Tahun {year_target}...")
         
         # Siapkan data input (menggunakan P0 tahun sebelumnya sebagai P0_Lag1)
@@ -45,7 +46,8 @@ def run_forecasting():
     df_forecast.to_csv(OUTPUT_FORECAST, index=False)
     
     print(f"✅ [07] Peramalan selesai! Hasil disimpan di: {OUTPUT_FORECAST}")
-    print(f"Rata-rata Prediksi Nasional {latest_year+1}: {df_forecast[df_forecast['Tahun']==2026]['P0'].mean():.2f}%")
+    print(f"Tahun forecast: {latest_year+1} - {latest_year+5}")
+    print(f"Rata-rata Prediksi Nasional {latest_year+1}: {df_forecast[df_forecast['Tahun']==latest_year+1]['P0'].mean():.2f}%")
 
 if __name__ == '__main__':
     run_forecasting()

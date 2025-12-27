@@ -1,19 +1,16 @@
-# 02_sentiment_ingestion.py
-
 import pandas as pd
 import datetime
 import os
 import snscrape.modules.twitter as sntwitter
 import itertools
 
-# --- KONFIGURASI PROYEK ---
 CLEANED_DIR = 'cleaned_data/'
 KEYWORD_LIST = [
     "kemiskinan OR miskin OR harga sembako OR PHK",
     "kesejahteraan rakyat OR subsidi",
     "bantuan sosial OR bansos OR lapangan kerja"
 ]
-# Daftar provinsi harus sesuai dengan standardisasi di 01_data_ingestion_cleaning.py
+
 PROVINCE_LIST = [
     "ACEH", "SUMATRA UTARA", "SUMATRA BARAT", "RIAU", "JAMBI", 
     "SUMATRA SELATAN", "BENGKULU", "LAMPUNG", "KEP. BANGKA BELITUNG", 
@@ -26,13 +23,10 @@ PROVINCE_LIST = [
     "PAPUA BARAT DAYA"
 ]
 
-# --- RENTANG WAKTU ---
 START_YEAR = 2013 
 END_YEAR = 2024 
 
 def scrape_tweets(max_tweets_per_year_province=500):
-    """Melakukan scraping tweet menggunakan snscrape."""
-    
     all_tweet_data = []
     total_scraped = 0
     
@@ -40,22 +34,16 @@ def scrape_tweets(max_tweets_per_year_province=500):
     print(f"Target max per kombinasi (Tahun/Provinsi/Keyword): {max_tweets_per_year_province}")
     
     for year in range(START_YEAR, END_YEAR + 1):
-        # snscrape menggunakan format YYYY-MM-DD
         start_date = f"{year}-01-01"
-        # Ambil sampai akhir tahun (31 Des)
         end_date = f"{year}-12-31" 
         
         for province in PROVINCE_LIST:
             for keyword in KEYWORD_LIST:
-                
-                # Query Pencarian: (Keywords) PROVINSI sejak TglX sampai TglY, bukan Retweet, bahasa Indonesia
                 query = f'({keyword}) "{province}" since:{start_date} until:{end_date} -filter:retweets lang:id'
                 
                 try:
-                    # Menggunakan sntwitter.TwitterSearchScraper
                     scraper = sntwitter.TwitterSearchScraper(query)
                     
-                    # Iterasi dan ambil tweets hingga batas max_tweets_per_year_province
                     for i, tweet in enumerate(scraper.get_items()):
                         if i >= max_tweets_per_year_province:
                             break
@@ -79,7 +67,6 @@ def scrape_tweets(max_tweets_per_year_province=500):
     return pd.DataFrame(all_tweet_data)
 
 if __name__ == '__main__':
-    # Catatan: Proses ini BISA memakan waktu lama (jam) karena scraping volume besar
     df_sentiment_raw = scrape_tweets(max_tweets_per_year_province=500)
     
     if not df_sentiment_raw.empty:

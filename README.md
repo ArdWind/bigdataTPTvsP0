@@ -8,7 +8,8 @@ Project ini mengintegrasikan data ekonomi dari BPS (Badan Pusat Statistik) denga
 - Menganalisis hubungan antara TPT dan tingkat kemiskinan (P0, P1, P2)
 - Memprediksi tingkat kemiskinan menggunakan model Machine Learning
 - Memvisualisasikan tren kemiskinan dan pengangguran melalui dashboard interaktif
-- Melakukan forecasting kemiskinan untuk tahun 2026-2027
+- Melakukan forecasting kemiskinan untuk 5 tahun kedepan
+- Upload dan manage data melalui Control Panel
 
 ## 🏗️ Struktur Project
 
@@ -16,18 +17,23 @@ Project ini mengintegrasikan data ekonomi dari BPS (Badan Pusat Statistik) denga
 BigDataProject/
 ├── Data_Source/                          # Data mentah dari BPS
 │   ├── Tingkat Pengangguran Terbuka/     # Data TPT (1986-2025)
-│   └── Persentase Penduduk Miskin/       # Data P0, P1, P2, GK (1996-2025)
+│   ├── Persentase Penduduk Miskin/       # Data P0, P1, P2, GK (1996-2025)
+│   └── sosialresponse/                   # Data TikTok (2019-2025)
 │
 ├── cleaned_data/                         # Data hasil processing (generated)
-│   ├── tpt_master_final.csv
-│   ├── P0_master_final.csv
-│   ├── P1_master_final.csv
-│   ├── P2_master_final.csv
-│   ├── gk_master_final.csv
 │   ├── data_master_ml.csv
 │   ├── dataset_final_untuk_ml.csv
+│   ├── sentiment_per_year.csv
 │   ├── model_kemiskinan_final.pkl
-│   └── forecast_results.csv
+│   └── data_forecasting_2026_2027.csv
+│
+├── utils/                                # Helper modules
+│   ├── data_validator.py                 # Validasi format data upload
+│   ├── data_processor.py                 # Automation script execution
+│   └── __init__.py
+│
+├── .streamlit/                           # Streamlit configuration
+│   └── config.toml                       # App settings (upload limit, etc)
 │
 ├── 01_data_ingestion_cleaning.py        # Script 1: Data ingestion & cleaning
 ├── 02_sentiment_ingestion.py            # Script 2: Scraping sentimen (opsional)
@@ -35,8 +41,8 @@ BigDataProject/
 ├── 04_final_integration.py              # Script 4: Integrasi data
 ├── 05_machine_learning_model.py         # Script 5: Training model ML
 ├── 06_uji_prediksi.py                   # Script 6: Testing prediksi
-├── 07_forecasting.py                    # Script 7: Forecasting 2026-2027
-├── app.py                                # Dashboard Streamlit
+├── 07_forecasting.py                    # Script 7: Forecasting 5 tahun kedepan
+├── app.py                                # Dashboard Streamlit dengan Control Panel
 ├── cek_sinkronisasi.py                  # Utility: Cek sinkronisasi data
 │
 ├── requirements.txt                      # Dependencies Python
@@ -196,19 +202,18 @@ python3 06_uji_prediksi.py
 
 ---
 
-### 7️⃣ Forecasting 2026-2027
+### 7️⃣ Forecasting 5 Tahun Kedepan
 ```bash
 python3 07_forecasting.py
 ```
 **Fungsi:**
-- Melakukan forecasting tingkat kemiskinan untuk tahun 2026-2027
-- Menggunakan model yang sudah dilatih
+- Melakukan prediksi P0 untuk 5 tahun kedepan menggunakan model ML
+- Menggunakan P0 tahun sebelumnya sebagai feature (P0_Lag1)
 
 **Output:**
-- `cleaned_data/forecast_results.csv`
-- `cleaned_data/data_forecasting_2026_2027.csv`
+- `cleaned_data/data_forecasting_2026_2027.csv` (berisi forecast 5 tahun)
 
-**Durasi:** ~2-5 detik
+**Durasi:** ~2-3 detik
 
 ---
 
